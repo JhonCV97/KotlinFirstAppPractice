@@ -6,4 +6,10 @@
     <string name="title_practice_main2">Jetpack Compose tutorial</string>
     <string name="title_paragraph_one_main2">Jetpack Compose is a modern toolkit for building native Android UI. Compose simplifies and accelerates UI development on Android with less code, powerful tools, and intuitive Kotlin APIs.</string>
     <string name="title_paragraph_two_main2">In this tutorial, you build a simple UI component with declarative functions. You call Compose functions to say what elements you want and the Compose compiler does the rest. Compose is built around Composable functions. These functions let you define your app\'s UI programmatically because they let you describe how it should look and provide data dependencies, rather than focus on the process of the UI\'s construction, such as initializing an element and then attaching it to a parent. To create a Composable function, you add the @Composable annotation to the function name.</string>
+    <string name="title_activity_main3">MainActivity3</string>
+    <string name="fullName_main3">Jennifer Doe</string>
+    <string name="title_main3">Android Developer Extraordinaire</string>
+    <string name="phone_main3">+11 (123) 444 555 666</string>
+    <string name="page_main3">"@AndriodDev"</string>
+    <string name="email_main3">jen.doe@android.com</string>
 </resources>
